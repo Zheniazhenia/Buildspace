@@ -24,4 +24,4 @@ module.exports = {
         accounts: ["YOUR_PRIVATE_GOERLI_ACCOUNT_KEY"]
       },
     },
-};
+};check check check

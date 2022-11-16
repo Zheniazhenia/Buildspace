@@ -3,6 +3,8 @@
 It's first Buildspace.co course for web3 developers. The link is down below:
 https://buildspace.so/p/build-solidity-web3-app
 
+Waveportal is my webplatform with smartcontract on Goerli Testnet Network where you can connect your web3 wallet, "Wave at me" and send me a message. All messages save in a storage. Between all the wavers can be draw a lottery where randomly picked user receive a prize. Also there is simple  protection with cooldown technique against spammers.
+
 During a course I:
 - Get familiar with basic solidity
 - Get a local Ethereum networking running

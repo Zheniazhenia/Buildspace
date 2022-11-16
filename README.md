@@ -21,6 +21,7 @@ During these processes I used:
 Solidity for smart-contracts
 Ether.js, Hardhat.js and Metamask for interacting w/ blockchain
 QuickNode and Alchemy for deploying smart-contract
+Dotenv to hide critical info
 React.js for front-end
 Replit platform for deploying website
 HTML, CSS for visual
